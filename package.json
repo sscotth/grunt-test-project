@@ -1,0 +1,19 @@
+{
+  "name": "grunt-test-project",
+  "version": "0.0.1",
+  "description": "This app is a test of using grunt rather than prepros",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sscotth/grunt-test-project.git"
+  },
+  "author": "Scott Humphries <scott@sscotth.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sscotth/grunt-test-project/issues"
+  },
+  "homepage": "https://github.com/sscotth/grunt-test-project"
+}
