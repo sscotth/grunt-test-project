@@ -8,5 +8,8 @@
   "description": "This app is a test of using grunt rather than prepros",
   "main": "public/index.html",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
 }
